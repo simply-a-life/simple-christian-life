@@ -16,6 +16,26 @@ body {
     text-align: left;
 }
 
+.left {
+    text-align: left
+}
+
+.right {
+    text-align: right
+}
+
+.center {
+    text-align: center
+}
+
+.print {
+    width: 64px;
+    height: 64px;
+    background-repeat: no-repeat;
+    border-bottom: none;
+    margin-right: 25px;
+}
+
 h1,
 h2,
 h3,
